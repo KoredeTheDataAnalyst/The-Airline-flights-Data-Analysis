@@ -109,8 +109,6 @@ Travel industry stakeholders (airport authorities, travel agencies).
 
 ```
 
-
-
 ### 🖼️ Screenshots
 
 ```
@@ -118,14 +116,14 @@ Travel industry stakeholders (airport authorities, travel agencies).
 
 ```
 ### 📊 Dashboard View
----
+```
 [View Dashboard](https://1drv.ms/x/c/2277007ae0603d10/ES_Z8xQMqYdAqsySn-SypNUBCi4EeQKL41h2ESez4eCvqA?e=uNiGfn)
 
----
+```
 
 ### 🧰 Technologies Used
 
-* 🛠 Language / Framework Used
+** 🛠 Language / Framework Used
 
 Microsoft Excel – used for data cleaning, aggregation, and visualization.
 
@@ -133,7 +131,8 @@ Excel Pivot Tables & Pivot Charts – for summarizing large datasets and creatin
 
 Excel Dashboarding Tools – slicers, filters, conditional formatting, and interactive charts to build a user-friendly interface.
 
-* 📦 Libraries / Packages (Excel Features Used)
+```
+### 📦 Libraries / Packages (Excel Features Used)
 
 Pivot Tables & Pivot Charts – for summarizing and visualizing large datasets.
 
@@ -145,7 +144,8 @@ Slicers & Timelines – for interactivity and filtering in the dashboard.
 
 Conditional Formatting – to highlight key trends and insights.
 
-* 🛠 Tools / APIs Used
+```
+### 🛠 Tools / APIs Used
 
 Microsoft Excel – primary tool for analysis and dashboard creation.
 
@@ -160,7 +160,7 @@ Excel Dashboarding Features – slicers, timelines, conditional formatting, and 
 
 
 
----
+```
 
 ### 📬 Contact
 
