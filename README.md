@@ -110,8 +110,9 @@ Travel industry stakeholders (airport authorities, travel agencies).
 ```
 
 ### 🖼️ Screenshots
+```
 
-![Screenshot ](Airlinesdash.PNG)
+![Screenshot ](Airlinesdash.PNG).
 
 ```
 ### 📊 Dashboard View
@@ -133,7 +134,7 @@ Excel Dashboarding Tools – slicers, filters, conditional formatting, and inter
 ```
 
 ### 📦 Libraries / Packages (Excel Features Used)
-
+```
 Pivot Tables & Pivot Charts – for summarizing and visualizing large datasets.
 
 Power Query – for data cleaning, transformation, and loading (ETL).
@@ -166,5 +167,5 @@ Excel Dashboarding Features – slicers, timelines, conditional formatting, and 
 
 Korede Olabode – Mobile No +234(8088727454) – (mailto:koredeenock23@gmailcom)
 
-
+```
 ---
