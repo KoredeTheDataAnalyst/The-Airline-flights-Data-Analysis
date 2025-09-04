@@ -114,11 +114,11 @@ Travel industry stakeholders (airport authorities, travel agencies).
 ### 🖼️ Screenshots
 
 ```
-![Screenshot 1](Airlinesdash.PNG)
+![Screenshot ](Airlinesdash.PNG)
 
 ```
 ### 📊 Dashboard View
-
+---
 [View Dashboard](https://1drv.ms/x/c/2277007ae0603d10/ES_Z8xQMqYdAqsySn-SypNUBCi4EeQKL41h2ESez4eCvqA?e=uNiGfn)
 
 ---
