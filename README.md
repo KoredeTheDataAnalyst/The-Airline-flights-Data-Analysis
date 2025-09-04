@@ -115,7 +115,7 @@ Travel industry stakeholders (airport authorities, travel agencies).
 ### 🖼️ Screenshots
 
 ```
-![Screenshot 1](airlinesdash.PNG)
+![Screenshot 1](Airlinesdash.PNG)
 ```
 
 ---
@@ -163,6 +163,6 @@ Excel Dashboarding Features – slicers, timelines, conditional formatting, and 
 
 Korede Olabode – Mobile No +234(8088727454) – [your.email@example.com](mailto:koredeenock23@gmailcom)
 
-Live Dashboard: [https://1drv.ms/x/c/2277007ae0603d10/ES_Z8xQMqYdAqsySn-SypNUBCi4EeQKL41h2ESez4eCvqA?e=uNiGfn)
+Live Dashboard: [(https://1drv.ms/x/c/2277007ae0603d10/ES_Z8xQMqYdAqsySn-SypNUBCi4EeQKL41h2ESez4eCvqA?e=uNiGfn)]
 
 ---
