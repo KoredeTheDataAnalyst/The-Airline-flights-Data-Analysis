@@ -1,0 +1,50 @@
+Dashboard step by step:
+
+1. Overall Snapshot 
+Total Cities: 6
+Total Airlines: 6
+Total Flights: 300,153
+This is a large dataset covering multiple airlines across six cities.
+
+2. Airline Performance
+Top Airlines by Flight Volume:
+Vistara has the highest number of flights (well over 140k).
+Air India follows as the second-largest.
+SpiceJet has the lowest flight count.
+
+3. Stops Analysis
+Airlines operate with varying stop patterns:
+Vistara has a large number of 1-stop flights.
+Air India shows flights across zero, one, and multiple stops.
+Indigo mostly operates direct (zero-stop) flights, which is attractive for time-conscious travelers.
+
+4. Pricing Insights
+Highest Revenue Contribution:
+Vistara leads in total price (revenue), followed by Air India.
+SpiceJet and AirAsia contribute the least in terms of total ticket price.
+By Class:
+Business Class generates significantly higher total revenue compared to Economy, showing higher yields despite fewer passengers.
+
+5. City-Wise Distribution
+Delhi & Mumbai dominate: These two cities have the highest flight volumes across all airlines, especially for Vistara and Air India.
+Other cities (Bangalore, Hyderabad, Kolkata, Chennai) have much fewer flights in comparison.
+
+6. Flight Arrival Times
+Most popular arrival times:
+Night & Morning flights dominate for all airlines.
+Afternoon flights are also strong for Air India and Vistara.
+Late Night & Early Morning slots have fewer flights, but still present across all airlines.
+
+7. Strategic Insights
+Vistara is the market leader in both flight count and revenue.
+Indigo differentiates itself with a high share of direct (zero-stop) flights, which could be a competitive advantage for customer preference.
+Air India has a strong mix across stops and timings, indicating network flexibility.
+SpiceJet and AirAsia are smaller players, possibly focusing on niche or cost-sensitive markets.
+Business class is disproportionately valuable for revenue, even though most passengers are in Economy.
+---
+✅ In summary:
+Vistara dominates the market (flights + revenue).
+Indigo leads in direct connectivity.
+Air India has strong versatility.
+Delhi & Mumbai are the busiest hubs.
+Business class drives the most revenue, despite fewer passengers.
